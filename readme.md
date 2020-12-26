@@ -1,4 +1,4 @@
-Check this out: https://ashishsanthakumar.github.io/Intro-to-HTML/
+To view this page: https://ashishsanthakumar.github.io/Intro-to-HTML/
 
 # Basics of HTML
 
